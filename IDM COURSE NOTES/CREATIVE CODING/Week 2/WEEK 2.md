@@ -5,5 +5,9 @@
 
 optional extension: Live server
 
-#notes 
+# Notes
+
+-  object contains data and functionality
+- class - template for building instances of an object
+- to create a an object, you need to create a class
 
