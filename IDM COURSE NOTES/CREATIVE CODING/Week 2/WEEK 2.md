@@ -11,3 +11,7 @@ optional extension: Live server
 - class - template for building instances of an object
 - to create a an object, you need to create a class
 
+lerp() - (min,  max, decimal value distance between)
+
+
+
