@@ -95,9 +95,21 @@
             "id": "84b63c629f815641",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Pasted image 20260921211858.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260921211858"
+            }
+          },
+          {
+            "id": "81e2bd97449e8260",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Sketching User Experiences by Bill Buxton.md",
+                "file": "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Sketching User Experiences by Bill Buxton.md",
                 "mode": "source",
                 "source": false
               },
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -273,11 +285,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "84b63c629f815641",
+  "active": "81e2bd97449e8260",
   "lastOpenFiles": [
     "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Sketching the Visual Thinking Power Tool.md",
-    "Sketching User Experiences by Bill Buxton.md",
     "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/The Miseducation of the Doodle.md",
+    "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Sketching User Experiences by Bill Buxton.md",
+    "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Pasted image 20260921211858.png",
     "CREATIVE CODING/Week 2/WEEK 2.md",
     "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial",
     "CREATIVE CODING/Week 2/“The Rise of Long-Form Generative  Art” Tyler Hobbs (2021).md",
