@@ -14,9 +14,9 @@ confronting the difficult realities of being human—birth, suffering, love, dea
 “Society is bad, and artists should reject it.”
 tell someone something difficult because they care about them enough to reveal something they don't see about themselves.
 
-1. speparate yourself from assumptions
+1. separate yourself from assumptions
 2. confront uncertainty/contradiction
 3. investigate what people avoid
-4. reveal what cannot be easily seen by themselvcs
+4. reveal what cannot be easily seen by themselves
 5. for self understanding
 6. 
