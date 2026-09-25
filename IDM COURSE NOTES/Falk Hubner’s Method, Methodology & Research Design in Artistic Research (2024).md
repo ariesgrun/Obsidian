@@ -1,0 +1,7 @@
+- goal developapparoach about thinkning and methodology that is not bound to one particular discipline but works in variety of art discilplines
+- Methodology is the study of methods
+- method is a specific technique for data collection
+- methods are at the core of research practice:
+- Methodology is the set of underlying (conceptual-philosophical)   assumptions, world views, values, and ethics. 
+- methodology can thus be understood more as a “theory of   methods”, a reflective perspective on methods.
+- research strategy as a level in-between   method and methodology,

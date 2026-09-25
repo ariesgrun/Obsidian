@@ -118,9 +118,37 @@
               "icon": "lucide-file",
               "title": "video lecture - sketching and ideating"
             }
+          },
+          {
+            "id": "e1f3b0cb96c8e788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESEARCH METHODS/week 3/Appropriate Research Methodologies for Artists, Designers & Craftspersons -Research as a Learning Process 1995.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appropriate Research Methodologies for Artists, Designers & Craftspersons -Research as a Learning Process 1995"
+            }
+          },
+          {
+            "id": "92001505f9210bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Falk Hubner’s Method, Methodology & Research Design in Artistic Research (2024).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Falk Hubner’s Method, Methodology & Research Design in Artistic Research (2024)"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -287,10 +315,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "9feb39c0456b54ad",
+  "active": "92001505f9210bb3",
   "lastOpenFiles": [
-    "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Sketching the Visual Thinking Power Tool.md",
+    "RESEARCH METHODS/week 3/Appropriate Research Methodologies for Artists, Designers & Craftspersons -Research as a Learning Process 1995.md",
+    "Falk Hubner’s Method, Methodology & Research Design in Artistic Research (2024).md",
+    "RESEARCH METHODS/week 3/Pasted image 20260925161610.png",
     "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/video lecture - sketching and ideating.md",
+    "RESEARCH METHODS/week 3",
+    "RESEARCH METHODS/Week 2/week 3",
+    "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Sketching the Visual Thinking Power Tool.md",
     "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Pasted image 20260921211858.png",
     "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/Sketching User Experiences by Bill Buxton.md",
     "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial/The Miseducation of the Doodle.md",
@@ -317,8 +350,6 @@
     "IDEATION AND PROTOTYPING",
     "CREATIVE CODING/Week 2",
     "RESEARCH METHODS/Week 1/Eugenia Zurowski;s Where Do You Know From (2020).md",
-    "RESEARCH METHODS/Week 1",
-    "Welcome.md",
-    "RESEARCH METHODS"
+    "Welcome.md"
   ]
 }
