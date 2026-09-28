@@ -1,4 +1,4 @@
-- goal developapparoach about thinkning and methodology that is not bound to one particular discipline but works in variety of art discilplines
+- goal develop apparoach about thinkning and methodology that is not bound to one particular discipline but works in variety of art discilplines
 - Methodology is the study of methods
 - method is a specific technique for data collection
 - methods are at the core of research practice:
