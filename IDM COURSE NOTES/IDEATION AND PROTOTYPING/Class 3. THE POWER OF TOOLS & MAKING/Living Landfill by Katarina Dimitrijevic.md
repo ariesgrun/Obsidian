@@ -1,0 +1,15 @@
+- the oceans are the world’s largest mismanaged landfill and unprotected ecosystem on the planet
+	- difficult to reverse
+	- 1.3 billion tonnes of solid waste per year
+	- 11% of the waste generated is plastic,  (4.8-12.7 million tonnes)
+- plastisphere - new biolayer of ocean
+- ocean 269,000 tonnes of plastic
+	- 5.25 trillion plastic particles.
+- plastic soup worksjop
+- gyre's natural system of currents combines plastics together
+	- as plastics aggregation, flotsam effect and fast vertical sedimentation in the oceans
+- nature is politically misrepresented, unheard and hidden category as plastic waste
+- 73% of all tested lantern fishes contain plastics
+- empathising with the other species, I cannot escape shopping single use plastic packaging in the UK supermarkets,
+- This design workshop opened to new plastic material relations, and favoured reconnecting with nonhuman species and nature.
+- 
