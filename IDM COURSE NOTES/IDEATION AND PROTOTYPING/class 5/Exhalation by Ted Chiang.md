@@ -1,0 +1,7 @@
+existence
+
+entropy
+
+inevitable\
+
+conscious
