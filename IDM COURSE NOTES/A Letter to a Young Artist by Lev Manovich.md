@@ -1,0 +1,11 @@
+- I am limited, but AI is unlimited.
+- What is interesting about human art now is our limits - and obsessions.
+- Making AI human is like forcing super-humans to act like humans, and this is a banal and weak strategy.
+- What makes art “human” is not our intentions, plans, ideas or meanings. 
+	- For over 100 years, modern artists did their best to remove all this from their art making. 
+	- If you give AI a direction, it can perfectly simulate ideas, plans and meanings. So this is not relevant.
+- “human artists making art with AI tools” is a meaningless idea. You want to collaborate with Gods?
+- Be extremely limited—not unlimited.
+- concentrate on a single area and go as deeply as possible.
+- AI is so vast and endless in its knowledge and skills, you needed to work on the micro-scale.
+- Through the needle eye. Only in this way can you perhaps still make art now.
