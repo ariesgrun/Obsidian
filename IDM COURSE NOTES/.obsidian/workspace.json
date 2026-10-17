@@ -13,30 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES/Technology Affordances by Bill Gaver.md",
+                "file": "RESEARCH METHODS/Week 1/Dirk Vink's Research for People Who Think They Would Rather Create (2021).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technology Affordances by Bill Gaver"
+              "title": "Dirk Vink's Research for People Who Think They Would Rather Create (2021)"
             }
           },
           {
-            "id": "78fa91ad39b379fc",
+            "id": "d5602ca847b179c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES/Nothing About Us Without Us, from Design Justice Chapter 2, by Sasha Costanza-Chock.md",
+                "file": "IDEATION AND PROTOTYPING/class 5/video lecture - Metaphors & Models in Thought & Creativity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nothing About Us Without Us, from Design Justice Chapter 2, by Sasha Costanza-Chock"
+              "title": "video lecture - Metaphors & Models in Thought & Creativity"
+            }
+          },
+          {
+            "id": "9d5595bc27906678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEATION AND PROTOTYPING/class 5/video lecture - Metaphors & Models in Thought & Creativity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "video lecture - Metaphors & Models in Thought & Creativity"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +219,14 @@
   },
   "active": "9feb39c0456b54ad",
   "lastOpenFiles": [
+    "IDEATION AND PROTOTYPING/class 5",
+    "IDEATION AND PROTOTYPING/class 5/video lecture - Who is We -  A Conversation with Chat GPT by Carla Gannis.md",
+    "IDEATION AND PROTOTYPING/class 5/video lecture - Metaphors & Models in Thought & Creativity.md",
+    "RESEARCH METHODS/Week 1/Dirk Vink's Research for People Who Think They Would Rather Create (2021).md",
+    "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES/Art, Design, Engineering Making As Thinking by Sara Hendren.md",
     "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES/Technology Affordances by Bill Gaver.md",
     "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES/Nothing About Us Without Us, from Design Justice Chapter 2, by Sasha Costanza-Chock.md",
     "CREATIVE CODING/week 3/Vera Molnár, interview  Paris 11 July 2017.md",
-    "Untitled",
     "CREATIVE CODING/Week 2/“The Rise of Long-Form Generative  Art” Tyler Hobbs (2021).md",
     "CREATIVE CODING/Week 2/WEEK 2.md",
     "IDEATION AND PROTOTYPING/WEEK 1/lecture vid/Lecture 1 - The Artificial.md",
@@ -216,7 +234,6 @@
     "IDEATION AND PROTOTYPING/WEEK 1/The Creative Act - a way of living by rick rubin.md",
     "IDEATION AND PROTOTYPING/WEEK 1/The Creative Process by James Baldwin 1962.md",
     "RESEARCH METHODS/week 3/Pasted image 20260925161610.png",
-    "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES/Art, Design, Engineering Making As Thinking by Sara Hendren.md",
     "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES/use and practice.md",
     "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES",
     "lecture accessible prototyping Materials and techniques.md",
@@ -237,14 +254,10 @@
     "IDEATION AND PROTOTYPING/Class 2. SKETCHING & MANIPULATING the artificial",
     "IDEATION AND PROTOTYPING/WEEK 1/lecture vid",
     "RESEARCH METHODS/Week 2/What David Graeber Noticed.md",
-    "RESEARCH METHODS/Week 2/On the Phenomenon of Bullshit  Jobs A Work - -Rant by David Graeber (PHD).md",
     "RESEARCH METHODS/Week 2/images/Pasted image 20260916145820.png",
-    "RESEARCH METHODS/Week 2/Wayne Booth, Chapter 2, The Craft of Research (2016).md",
     "RESEARCH METHODS/Week 2/images",
     "RESEARCH METHODS/Week 2/images/Pasted image 20260916145734.png",
     "RESEARCH METHODS/Week 2/images/Pasted image 20260916145603.png",
-    "RESEARCH METHODS/Week 2",
-    "RESEARCH METHODS/Week 1/Dirk Vink's Research for People Who Think They Would Rather Create (2021).md",
-    "RESEARCH METHODS/Week 1/Eugenia Zurowski;s Where Do You Know From (2020).md"
+    "RESEARCH METHODS/Week 2"
   ]
 }
