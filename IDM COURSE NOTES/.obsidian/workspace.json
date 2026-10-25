@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d7b89355a9f1e48",
+        "id": "661da3467f867232",
         "type": "tabs",
         "children": [
           {
-            "id": "103e123bc76fca21",
+            "id": "23a2377a00d9ac0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Belly of the Beast by Aarati Akkapeddi.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Belly of the Beast by Aarati Akkapeddi"
+              "title": "New tab"
             }
           }
         ]
@@ -188,15 +184,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "103e123bc76fca21",
+  "active": "23a2377a00d9ac0e",
   "lastOpenFiles": [
+    "Belly of the Beast by Aarati Akkapeddi.md",
     "IDEATION AND PROTOTYPING/class 5/video lecture - Who is We -  A Conversation with Chat GPT by Carla Gannis.md",
     "IDEATION AND PROTOTYPING/class 5/video lecture - Metaphors & Models in Thought & Creativity.md",
     "IDEATION AND PROTOTYPING/class 5/Metaphors & Imaginaries by Dan Lockton et al..md",
     "IDEATION AND PROTOTYPING/class 5/Exhalation by Ted Chiang.md",
     "IDEATION AND PROTOTYPING/class 5/AI, AIN’T I A WOMAN -from Unmasking AI by Joy Buolamwini.md",
     "IDEATION AND PROTOTYPING/class 5/A Letter to a Young Artist by Lev Manovich.md",
-    "Belly of the Beast by Aarati Akkapeddi.md",
     "RESEARCH METHODS/Week 1/Dirk Vink's Research for People Who Think They Would Rather Create (2021).md",
     "AI, AIN’T I A WOMAN -from Unmasking AI by Joy Buolamwini.md",
     "IDEATION AND PROTOTYPING/class 5",
