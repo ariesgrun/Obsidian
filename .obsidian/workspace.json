@@ -11,10 +11,14 @@
             "id": "c6d1f486ea47f05a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Design Futurescaping.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Design Futurescaping"
             }
           }
         ]
@@ -186,6 +190,8 @@
   },
   "active": "c6d1f486ea47f05a",
   "lastOpenFiles": [
+    "Design Futurescaping.md",
+    "IDM COURSE NOTES/IDEATION AND PROTOTYPING/class 8 - world building and storytelling",
     "IDM COURSE NOTES/RESEARCH METHODS/Week 2/What David Graeber Noticed.md",
     "IDM COURSE NOTES/IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES/Affordance - The Silent Signal That Divides Art and Design.md",
     "Elizabeth Chin, My Life With Things (Pgs 37-41).md",
