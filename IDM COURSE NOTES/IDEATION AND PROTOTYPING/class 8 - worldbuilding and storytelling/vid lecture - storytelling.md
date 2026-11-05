@@ -33,3 +33,5 @@ kristin thompson . david bordwell - film media theorists
 
 - narratives are chains of cause and effect happening in space and time
 - time
+- depth and range of information to the audiencee
+- 
