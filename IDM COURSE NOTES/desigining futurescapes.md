@@ -1,0 +1,4 @@
+- Sterling describes the futurescape as having ‘user-centric Google maps rather than officially certified paper road maps (...) not some Marxist road to utopia, [but] a navigable global sprawl.’
+- Creating plausible images of a complex and heterogeneous future necessarily entails a greater level of detailing than the brief, textual vignettes of conventional scenarios work.
+	- blade runner
+- 
