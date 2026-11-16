@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01b35f11512fc191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/video - Lecture 8 - Design Research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "video - Lecture 8 - Design Research"
-            }
-          },
-          {
             "id": "fac65623aa350968",
             "type": "leaf",
             "state": {
@@ -55,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifecycle Phases and Framework from Making and Being by Jahoda and Woolard.md",
+                "file": "Research in Art and Design by Chris Frayling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lifecycle Phases and Framework from Making and Being by Jahoda and Woolard"
+              "title": "Research in Art and Design by Chris Frayling"
+            }
+          },
+          {
+            "id": "5729b681c61469bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/A City Is Not A Computer, Chapter 2, by Shannon Mattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A City Is Not A Computer, Chapter 2, by Shannon Mattern"
             }
           }
         ],
@@ -120,6 +120,20 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "01b35f11512fc191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/video - Lecture 8 - Design Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "video - Lecture 8 - Design Research"
             }
           }
         ]
@@ -231,12 +245,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b24cafe9eb6b29c4",
+  "active": "9feb39c0456b54ad",
   "lastOpenFiles": [
-    "Research in Art and Design by Chris Frayling.md",
-    "Lifecycle Phases and Framework from Making and Being by Jahoda and Woolard.md",
-    "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/video - Lecture 7 - Project Phases.md",
     "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/video - Lecture 8 - Design Research.md",
+    "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/video - Lecture 7 - Project Phases.md",
+    "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/A City Is Not A Computer, Chapter 2, by Shannon Mattern.md",
+    "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/Research in Art and Design by Chris Frayling.md",
+    "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY/Lifecycle Phases and Framework from Making and Being by Jahoda and Woolard.md",
     "IDEATION AND PROTOTYPING/Class 9. FRAMING CREATIVE INQUIRY",
     "IDEATION AND PROTOTYPING/class 8 - worldbuilding and storytelling/desigining futurescapes.md",
     "IDEATION AND PROTOTYPING/class 8 - worldbuilding and storytelling/vid lecture - storytelling.md",
@@ -263,7 +278,6 @@
     "IDEATION AND PROTOTYPING/class 5/video lecture - Who is We -  A Conversation with Chat GPT by Carla Gannis.md",
     "IDEATION AND PROTOTYPING/class 5/video lecture - Metaphors & Models in Thought & Creativity.md",
     "IDEATION AND PROTOTYPING/class 5/Metaphors & Imaginaries by Dan Lockton et al..md",
-    "IDEATION AND PROTOTYPING/class 5/Exhalation by Ted Chiang.md",
     "IDEATION AND PROTOTYPING/class 5",
     "RESEARCH METHODS/week 3/Pasted image 20260925161610.png",
     "IDEATION AND PROTOTYPING/Class 4. USE, SIGNALS & AFFORDANCES",
